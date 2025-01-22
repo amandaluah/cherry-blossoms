@@ -4,7 +4,7 @@
 >
 > Refer to [guideline](DAI_Capstone_Project_Guidelines.pdf) for the full guideline.
 > 
-> Tools used: Python, Tableau
+> Tech Stack: Python, Tableau
 >
 > Resources: Historical weather data was obtained from both Kaggle and Japan Meteorological Agency.
 >
