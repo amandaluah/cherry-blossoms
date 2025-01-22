@@ -1,6 +1,6 @@
 ## 🌸 Capstone Project: Predicting Japan's Cherry Blossom Bloom Date
 ![Image](https://github.com/user-attachments/assets/53e5f04f-446c-4082-8c11-0db9ac18be1f)
-> **Overview**: Built a prediction model using Time series approach for future cherry blossom dates in various regions of Japan in order to help local businesses maximize their success during Cherry Blossom period.
+> **Overview**: Built a prediction model using Time series approach to forecast future cherry blossom dates in various regions of Japan in order to help local businesses maximize their success during Cherry Blossom period.
 >
 > Refer to [guideline](DAI_Capstone_Project_Guidelines.pdf) for the full guideline.
 > 
