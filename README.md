@@ -8,7 +8,7 @@
 >
 > **Resources**: Historical weather data was obtained from both Kaggle and Japan Meteorological Agency.
 >
-> **Result**: Mean Absolute Error (MAE) =  16.019 days. This discrepancy may stem from the fact that cherry blossoms bloomed 15 days later in 2024 compared to 2023, highlighting the variability of weather patterns.
+> **Result**: Mean Absolute Error (MAE) =  16.019 days. This discrepancy stems from the fact that cherry blossoms bloomed 15 days later in 2024 compared to 2023, highlighting the variability of weather patterns.
 >
 > **Deliverables**: <br/> 
 > [Final Presentation deck to stakeholders](https://github.com/amandaluah/cherry-blossoms/blob/a911d20672088fc52601efc37aba329ae89945ac/Predicting%20Cherry%20Blossom_%20Presentation%20Deck.pdf) <br/>
