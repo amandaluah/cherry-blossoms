@@ -13,4 +13,4 @@
 > **Deliverables**: <br/> 
 > [Final Presentation deck to stakeholders](https://github.com/amandaluah/cherry-blossoms/blob/a911d20672088fc52601efc37aba329ae89945ac/Predicting%20Cherry%20Blossom_%20Presentation%20Deck.pdf) <br/>
 > [Technical Report to stakeholders](https://github.com/amandaluah/cherry-blossoms/blob/a911d20672088fc52601efc37aba329ae89945ac/Predicting%20Cherry%20Blossom_%20Technical%20Report.pdf) <br/>
-> [Codes](https://github.com/amandaluah/cherry-blossoms/blob/1fe6940a76aaf0eb4fbcfc213e5fd28fab527859/Capstone.ipynb) <br/>
+> [Codes - Jupyter Notebook](https://github.com/amandaluah/cherry-blossoms/blob/1fe6940a76aaf0eb4fbcfc213e5fd28fab527859/Capstone.ipynb) <br/>
